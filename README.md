@@ -143,15 +143,9 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
 
-## Experience and Leadership
-
-As a **Web Technologies Teaching Assistant**, I supported more than 50 students with HTML, CSS, JavaScript, React, and Django through lab sessions and one-to-one guidance. I reviewed assignments and full-stack projects, helped debug frontend and backend issues, and provided feedback focused on code quality and problem-solving.
-
-I also contributed to technical and community events as a **Volunteer Member at FAST Nutech**, supporting coordination, logistics, outreach, and team execution.
-
 ## Education and Continuous Learning
 
-**BS Software Engineering — FAST-NUCES**
+**BS Software Engineering - FAST-NUCES**
 2022–2026
 
 Selected learning includes supervised machine learning, Python for data science and AI, React development, Agile project management, Docker, product strategy, and the McKinsey Forward Program.
