@@ -6,7 +6,7 @@
 
 I build practical software products by connecting reliable backend systems, thoughtful user experiences, and applied AI.
 
-[LinkedIn](https://www.linkedin.com/in/AsharNaveed) · [Email](mailto:asharnaveed.career@gmail.com) · [Projects](#selected-projects) · [Technical Stack](#technical-stack)
+[LinkedIn](https://www.linkedin.com/in/ashar-naveed-39499a25b) · [Email](mailto:asharnaveed.career@gmail.com) · [Projects](#selected-projects) · [Technical Stack](#technical-stack)
 
 </div>
 
@@ -148,7 +148,7 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 **BS Software Engineering - FAST-NUCES**
 2022–2026
 
-Selected learning includes supervised machine learning, Python for data science and AI, React development, Agile project management, Docker, product strategy, and the McKinsey Forward Program.
+Selected learning includes supervised machine learning, Python for data science and AI, React development, Agile project management, Docker and the product strategy.
 
 ## Let’s Connect
 
