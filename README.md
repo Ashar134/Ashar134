@@ -8,7 +8,23 @@
 
 I build practical software products by connecting reliable backend systems, thoughtful user experiences, and applied AI.
 
-[LinkedIn](https://www.linkedin.com/in/ashar-naveed-39499a25b) · [Email](mailto:asharnaveed.career@gmail.com) · [Projects](#selected-projects) · [Technical Stack](#technical-stack)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashar-naveed-39499a25b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:asharnaveed.career@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="#selected-projects">
+    <img src="https://img.shields.io/badge/Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+  </a>
+
+  <a href="#technical-stack">
+    <img src="https://img.shields.io/badge/Technical_Stack-6A1B9A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Technical Stack">
+  </a>
+</p>
 
 </div>
 
@@ -150,25 +166,6 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 
 **BS Software Engineering - FAST-NUCES**
 2022–2026
-
-## Certifications
-
-- McKinsey Forward Program
-- Supervised Machine Learning (Coursera)
-- Python for Data Science and AI (Coursera)
-- React Development Certification
-- Agile Project Management Certification
-- Docker Fundamentals
-
-## GitHub Stats
-
-<div align="center">
-
-
-
-
-
-</div>
 
 Selected learning includes supervised machine learning, Python for data science and AI, React development, Agile project management, Docker and the product strategy.
 
