@@ -137,7 +137,7 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 * Created a semantic recommendation engine using SentenceTransformers, skill similarity, and recruiter requirements.
 * Integrated a RAG-based assessment generator backed by curated technical questions and a vector store.
 * Designed an AI interview assistant using Whisper STT, gTTS, communication scoring, and visual-signal processing.
-* Applied the Gale–Shapley algorithm to improve candidate–job allocation consistency and fairness.
+* Applied the Gale-Shapley algorithm to improve candidate-job allocation consistency and fairness.
 * Delivered two React applications: a candidate portal and an analytics-focused HR dashboard.
 
 **System structure**
@@ -150,17 +150,6 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 | Intelligence         | spaCy, SentenceTransformers, LangChain, ChromaDB, NLTK  |
 | Interview analysis   | Whisper, gTTS, MediaPipe, DeepFace, OpenCV              |
 | Quality              | Vitest, Testing Library, ESLint                         |
-
-## Selected Projects
-
-| Project                    | What it solves                                                                                               | Core technologies                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **SAGE**                   | Automates recruitment workflows through intelligent matching, assessments, interviews, and stable allocation | Django REST Framework, React, TypeScript, NLP, RAG, MySQL |
-| **Mehvar**                 | Helps clients and vendors manage construction projects, quotations, and collaboration                        | Flask, REST APIs, RBAC, relational database               |
-| **Zeval**                  | Predicts residential property prices from real-estate data with an R² score of 0.80 on unseen test data      | Python, Pandas, scikit-learn, Random Forest               |
-| **Flex**                   | Centralizes attendance, grading, resources, and classroom communication                                      | Django, HTML, CSS, JavaScript, relational database        |
-| **RideMate**               | Defines the functional and non-functional design of a ride-booking platform                                  | SRS, UML, use cases, sequence diagrams                    |
-| **Bank Management System** | Supports account management, transactions, and persistent banking records                                    | C++, OOP, file handling                                   |
 
 ## Education and Continuous Learning
 
