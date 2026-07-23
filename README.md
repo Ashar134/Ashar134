@@ -4,9 +4,7 @@
 
 <div align="center">
 
-# Ashar Naveed
-
-### Software Engineering Graduate · Full-Stack Developer · Product-Focused Engineer
+### Software Engineering · Full-Stack Software Developer · Product-Focused Engineer
 
 I build practical software products by connecting reliable backend systems, thoughtful user experiences, and applied AI.
 
