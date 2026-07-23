@@ -149,27 +149,14 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 | Interview analysis   | Whisper, gTTS, MediaPipe, DeepFace, OpenCV              |
 | Quality              | Vitest, Testing Library, ESLint                         |
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashar134&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar134&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashar134&show_icons=true&theme=default&title_color=0EA5E9&icon_color=0EA5E9&border_color=7DD3FC"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashar134&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashar134&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashar134&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashar134&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://streak-stats.demolab.com?user=Ashar134&theme=default&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&border=7DD3FC"/>
 </p>
 
 ## Education and Continuous Learning
