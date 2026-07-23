@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Software Engineering · Full-Stack Software Developer · Product-Focused Engineer
+### Software Engineer · Full-Stack Software Developer · Product-Focused Engineer
 
 I build practical software products by connecting reliable backend systems, thoughtful user experiences, and applied AI.
 
@@ -16,7 +16,7 @@ I build practical software products by connecting reliable backend systems, thou
 
 ## About Me
 
-I am a Software Engineering graduate from **FAST-NUCES** with hands-on experience in full-stack development, backend engineering, applied AI, and product delivery. I enjoy turning real problems into maintainable software—from defining workflows and APIs to building the interface and improving the final user experience.
+I am a Software Engineering graduate from **FAST-NUCES** with hands-on experience in full-stack development, backend engineering, applied AI, and product delivery. I enjoy turning real problems into maintainable software from defining workflows and APIs to building the interface and improving the final user experience.
 
 My primary stack is **Python, Django, Flask, FastAPI, React, TypeScript, and relational databases**. I have also worked with NLP, semantic embeddings, RAG, speech processing, computer vision, and automation scripts.
 
@@ -53,44 +53,6 @@ NLP pipelines, semantic matching, vector embeddings, RAG, machine learning, spee
 </td>
 </tr>
 </table>
-
-## Featured Project
-
-### SAGE — Autonomous Recruitment Intelligence Platform
-
-SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring work while keeping recruiters in control. It supports the complete journey from job creation and resume screening to candidate assessment, interviewing, and final allocation.
-
-**What I engineered**
-
-* Built separate recruiter and candidate workspaces with role-specific workflows.
-* Developed REST APIs and secure JWT-based authentication using Django REST Framework.
-* Created a semantic recommendation engine using SentenceTransformers, skill similarity, and recruiter requirements.
-* Integrated a RAG-based assessment generator backed by curated technical questions and a vector store.
-* Designed an AI interview assistant using Whisper STT, gTTS, communication scoring, and visual-signal processing.
-* Applied the Gale–Shapley algorithm to improve candidate–job allocation consistency and fairness.
-* Delivered two React applications: a candidate portal and an analytics-focused HR dashboard.
-
-**System structure**
-
-| Layer                | Implementation                                          |
-| -------------------- | ------------------------------------------------------- |
-| Backend              | Django 5, Django REST Framework, SimpleJWT, MySQL       |
-| Candidate experience | React 19, TypeScript, Vite, Tailwind CSS, Framer Motion |
-| Recruiter experience | React 19, Shadcn UI, Recharts, Tailwind CSS             |
-| Intelligence         | spaCy, SentenceTransformers, LangChain, ChromaDB, NLTK  |
-| Interview analysis   | Whisper, gTTS, MediaPipe, DeepFace, OpenCV              |
-| Quality              | Vitest, Testing Library, ESLint                         |
-
-## Selected Projects
-
-| Project                    | What it solves                                                                                               | Core technologies                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **SAGE**                   | Automates recruitment workflows through intelligent matching, assessments, interviews, and stable allocation | Django REST Framework, React, TypeScript, NLP, RAG, MySQL |
-| **Mehvar**                 | Helps clients and vendors manage construction projects, quotations, and collaboration                        | Flask, REST APIs, RBAC, relational database               |
-| **Zeval**                  | Predicts residential property prices from real-estate data with an R² score of 0.80 on unseen test data      | Python, Pandas, scikit-learn, Random Forest               |
-| **Flex**                   | Centralizes attendance, grading, resources, and classroom communication                                      | Django, HTML, CSS, JavaScript, relational database        |
-| **RideMate**               | Defines the functional and non-functional design of a ride-booking platform                                  | SRS, UML, use cases, sequence diagrams                    |
-| **Bank Management System** | Supports account management, transactions, and persistent banking records                                    | C++, OOP, file handling                                   |
 
 ## Technical Stack
 
@@ -144,6 +106,45 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+
+
+## Featured Project
+
+### SAGE - AI-Powered Autonomous Recruitment Intelligence Platform
+
+SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring work while keeping recruiters in control. It supports the complete journey from job creation and resume screening to candidate assessment, interviewing, and final allocation.
+
+**What I engineered**
+
+* Built separate recruiter and candidate workspaces with role-specific workflows.
+* Developed REST APIs and secure JWT-based authentication using Django REST Framework.
+* Created a semantic recommendation engine using SentenceTransformers, skill similarity, and recruiter requirements.
+* Integrated a RAG-based assessment generator backed by curated technical questions and a vector store.
+* Designed an AI interview assistant using Whisper STT, gTTS, communication scoring, and visual-signal processing.
+* Applied the Gale–Shapley algorithm to improve candidate–job allocation consistency and fairness.
+* Delivered two React applications: a candidate portal and an analytics-focused HR dashboard.
+
+**System structure**
+
+| Layer                | Implementation                                          |
+| -------------------- | ------------------------------------------------------- |
+| Backend              | Django 5, Django REST Framework, SimpleJWT, MySQL       |
+| Candidate experience | React 19, TypeScript, Vite, Tailwind CSS, Framer Motion |
+| Recruiter experience | React 19, Shadcn UI, Recharts, Tailwind CSS             |
+| Intelligence         | spaCy, SentenceTransformers, LangChain, ChromaDB, NLTK  |
+| Interview analysis   | Whisper, gTTS, MediaPipe, DeepFace, OpenCV              |
+| Quality              | Vitest, Testing Library, ESLint                         |
+
+## Selected Projects
+
+| Project                    | What it solves                                                                                               | Core technologies                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| **SAGE**                   | Automates recruitment workflows through intelligent matching, assessments, interviews, and stable allocation | Django REST Framework, React, TypeScript, NLP, RAG, MySQL |
+| **Mehvar**                 | Helps clients and vendors manage construction projects, quotations, and collaboration                        | Flask, REST APIs, RBAC, relational database               |
+| **Zeval**                  | Predicts residential property prices from real-estate data with an R² score of 0.80 on unseen test data      | Python, Pandas, scikit-learn, Random Forest               |
+| **Flex**                   | Centralizes attendance, grading, resources, and classroom communication                                      | Django, HTML, CSS, JavaScript, relational database        |
+| **RideMate**               | Defines the functional and non-functional design of a ride-booking platform                                  | SRS, UML, use cases, sequence diagrams                    |
+| **Bank Management System** | Supports account management, transactions, and persistent banking records                                    | C++, OOP, file handling                                   |
 
 ## Education and Continuous Learning
 
