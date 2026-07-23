@@ -160,10 +160,6 @@ Selected learning includes supervised machine learning, Python for data science 
 
 I am currently interested in opportunities where I can contribute to backend systems, full-stack products, or applied AI features while continuing to grow as an engineer.
 
-* Email: [asharnaveed.career@gmail.com](mailto:asharnaveed.career@gmail.com)
-* LinkedIn: [linkedin.com/in/AsharNaveed](https://www.linkedin.com/in/AsharNaveed)
-* GitHub: [github.com/Ashar134](https://github.com/Ashar134)
-
 <div align="center">
 
 <sub>Building useful products, one well-designed system at a time.</sub>
