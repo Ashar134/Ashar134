@@ -6,8 +6,6 @@
 
 ### Software Engineer · Full-Stack Software Developer · Product-Focused Engineer
 
-I build practical software products by connecting reliable backend systems, thoughtful user experiences, and applied AI.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ashar-naveed-39499a25b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
