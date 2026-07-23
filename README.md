@@ -151,6 +151,25 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 **BS Software Engineering - FAST-NUCES**
 2022–2026
 
+## Certifications
+
+- McKinsey Forward Program
+- Supervised Machine Learning (Coursera)
+- Python for Data Science and AI (Coursera)
+- React Development Certification
+- Agile Project Management Certification
+- Docker Fundamentals
+
+## GitHub Stats
+
+<div align="center">
+
+
+
+
+
+</div>
+
 Selected learning includes supervised machine learning, Python for data science and AI, React development, Agile project management, Docker and the product strategy.
 
 ## Let’s Connect
