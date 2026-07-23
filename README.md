@@ -152,11 +152,6 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashar134&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=4B5563&border_color=38BDF8"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar134&layout=compact&theme=transparent&title_color=38BDF8&text_color=4B5563&border_color=38BDF8"/>
-</p>
-
-<p align="center">
   <img width="98%" src="https://streak-stats.demolab.com?user=Ashar134&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=4B5563&dates=4B5563&border=38BDF8"/>
 </p>
 
