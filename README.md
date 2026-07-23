@@ -152,11 +152,16 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashar134&show_icons=true&theme=default&title_color=0EA5E9&icon_color=0EA5E9&border_color=7DD3FC"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashar134&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=4B5563&border_color=38BDF8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashar134&layout=compact&theme=transparent&title_color=38BDF8&text_color=4B5563&border_color=38BDF8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashar134&theme=default&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&border=7DD3FC"/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=Ashar134&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=4B5563&dates=4B5563&border=38BDF8"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashar134&bg_color=ffffff&color=38BDF8&line=38BDF8&point=0EA5E9&area=true&area_color=BAE6FD&hide_border=true"/>
 </p>
 
 ## Education and Continuous Learning
