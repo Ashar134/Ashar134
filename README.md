@@ -16,7 +16,7 @@ I build practical software products by connecting reliable backend systems, thou
 
 ## About Me
 
-I am a Software Engineering graduate from **FAST-NUCES** with hands-on experience in full-stack development, backend engineering, applied AI, and product delivery. I enjoy turning real problems into maintainable software from defining workflows and APIs to building the interface and improving the final user experience.
+I am a Software Engineer with hands-on experience in full-stack development, backend engineering, applied AI, and product delivery. I enjoy turning real problems into maintainable software from defining workflows and APIs to building the interface and improving the final user experience.
 
 My primary stack is **Python, Django, Flask, FastAPI, React, TypeScript, and relational databases**. I have also worked with NLP, semantic embeddings, RAG, speech processing, computer vision, and automation scripts.
 
