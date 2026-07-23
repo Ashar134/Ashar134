@@ -22,7 +22,6 @@ My primary stack is **Python, Django, Flask, FastAPI, React, TypeScript, and rel
 Current focus    Python backend engineering, full-stack products, and applied AI
 Interested in    Associate Software Engineer, Backend Developer, and Full-Stack roles
 Working style    Product-minded, collaborative, and comfortable with end-to-end ownership
-Location         Karachi, Pakistan · Open to remote work and relocation
 ```
 
 ## What I Bring
@@ -68,14 +67,6 @@ SAGE is an AI-powered recruitment platform designed to reduce repetitive hiring 
 * Designed an AI interview assistant using Whisper STT, gTTS, communication scoring, and visual-signal processing.
 * Applied the Gale–Shapley algorithm to improve candidate–job allocation consistency and fairness.
 * Delivered two React applications: a candidate portal and an analytics-focused HR dashboard.
-
-```mermaid
-flowchart LR
-    A[Resume Parsing] --> B[Semantic Matching]
-    B --> C[AI Assessment]
-    C --> D[AI Interview]
-    D --> E[Stable Allocation]
-```
 
 **System structure**
 
