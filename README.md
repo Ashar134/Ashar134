@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/LinkedIn banner.jpg" alt="profile" width="100%">
+</p>
+
 <div align="center">
 
 # Ashar Naveed
